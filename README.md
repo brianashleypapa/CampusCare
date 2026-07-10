@@ -163,7 +163,7 @@ Check out our Figma designs and prototypes here:
 ### Installation
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/YourOrg/CampusCare.git](https://github.com/YourOrg/CampusCare.git)
+   git clone https://github.com/brianashleypapa/CampusCare.git
    cd CampusCare
    ```
 
